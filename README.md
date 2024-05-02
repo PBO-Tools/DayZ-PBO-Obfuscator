@@ -8,7 +8,7 @@
     </a>
 </p>
 
-PBO Tools is a free and user-friendly obfuscation suite, specially crafted for DayZ and ARMA. It simplifies the obfuscation process, making it accessible to all users, regardless of their experience level.
+PBO Tools is a free and user-friendly obfuscation suite, specially crafted for DayZ and ARMA. It simplifies the PBO obfuscation process, making it accessible to all users, regardless of their experience level.
 
 We offer a professional edition subscription with advanced features such as an enhanced obfuscation model, automated code obfuscation, model binning, and more. This subscription is ideal for users looking for advanced obfuscation capabilities. <br><br>To purchase a subscription, please visit https://pbo.tools.
 
