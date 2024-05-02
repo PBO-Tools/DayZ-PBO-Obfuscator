@@ -14,11 +14,14 @@ We offer a professional edition subscription with advanced features such as an e
 
 ## Features
 
-- Intuitive and user-friendly design and wording
+- Intuitive and user-friendly interface
 - Utilizes an advanced PBO obfuscation model
+- Breaks deobfuscation software, enhancing protection
+- Automatically adds junk code to the PBO for additional security
 - Offers automatic code obfuscation
 - Supports model binarizing and obfuscation
 - Includes PBO signing upon completion
+- Regular updates and continuous improvements for enhanced functionality
 
 ## Installation
 
