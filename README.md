@@ -28,10 +28,12 @@ We offer a professional edition subscription with advanced features such as an e
 * Download the most latest version of PBO Tools and save the application to your Desktop. Then, drag a mod from your P Drive onto the exe and follow the on-screen instructions.
 
 ## Settings
+* PBO Tools can be configured using the Settings.json file found in `\Documents\SIX Software\PBO Tools\Settings.json` 
+Below is an overview of the current settings and their functions. Settings marked with ** require an active subscription to PBO Tools Professional Edition, which can be purchased at https://pbo.tools/products.
 ```
 {
   
-  "Version": "1.5", //Version control, do not modify 
+  "Version": "1.5", //Do not modify this, version control
   "Configuration": { 
     "SelectedGame": "DayZ", //Do not modify this, reserved for future use
     "BinarizeLocation": "Temp", //Temporary location for model binning, requires a valid subscription to PBO Tools Professional Edition **
