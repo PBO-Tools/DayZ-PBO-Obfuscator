@@ -37,7 +37,7 @@ Below is an overview of the current settings and their functions. Settings marke
   "Configuration": { 
     "SelectedGame": "DayZ", //Do not modify this, reserved for future use
     "BinarizeLocation": "Temp", //Temporary location for model binning, requires a valid subscription to PBO Tools Professional Edition **
-    "PBOOutputLocation": "P:\\Output\\", //Location wher ethe PBO will be saved, requires a valid subscription to PBO Tools Professional Edition **
+    "PBOOutputLocation": "P:\\Output\\", //Location where the PBO will be saved, requires a valid subscription to PBO Tools Professional Edition **
     "SigningKeyLocation": "" //Path to your private key for signing, requires a valid subscription to PBO Tools Professional Edition **
   },
   "NotificationSettings": {
