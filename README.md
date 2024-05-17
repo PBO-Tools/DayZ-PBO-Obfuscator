@@ -112,6 +112,10 @@ Below is an overview of the current settings and their functions. Settings marke
 
 * If you encounter any issues, please visit https://discord.pbo.tools and open a ticket and we'll get you sorted.
 
+## Documentation 
+
+* https://docs.pbo.tools
+  
 ## License
 * https://pbo.tools/end-user-licence-agreement
 
