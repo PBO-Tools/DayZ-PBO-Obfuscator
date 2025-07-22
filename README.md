@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/PBO-Tools/DayZ-PBO-Obfuscator/releases/latest">
-    <img src="https://img.shields.io/badge/Version-1.8.2-blue.svg?style=flat-square" alt="Latest Version">
+    <img src="https://img.shields.io/badge/Version-1.8.1-blue.svg?style=flat-square" alt="Latest Version">
   </a>
 </p>
 
